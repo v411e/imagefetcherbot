@@ -1,0 +1,14 @@
+maubot: 0.1.0
+id: com.valentinriess.imagefetcherbot
+version: 0.0.1
+license: MIT
+modules:
+  - imagefetcherbot
+main_class: ImagefetcherBot
+config: true
+extra_files:
+  - base-config.yaml
+database: false
+webapp: true
+soft_dependencies: []
+dependencies: []
